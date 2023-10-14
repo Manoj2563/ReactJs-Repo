@@ -1,0 +1,39 @@
+.name{
+    border: 1px solid none;
+    background-color: rgb(185, 183, 182);
+    border-radius: 25px;
+    width: 230px;
+    padding: 5px;
+}
+.img{
+    width: 100%;
+}
+#font{
+    padding-left: 10px;
+}
+#logininput {
+    outline: none;
+    border: 1px solid  rgb(185, 183, 182);
+    background-color:  rgb(185, 183, 182);    
+}
+.loginbutton{
+    width: 230px;
+    background-color: rgb(31, 244, 31);
+    color: white;
+    border-radius: 25px;
+    border: none;
+}
+.main{
+    width: 350px;
+}
+.loginspan{
+    color: rgb(31, 244, 31);
+    font-weight: bold;
+}
+#last{
+    color: rgb(31, 244, 31);
+}
+.line{
+    background: linear-gradient(to right,rgb(240, 4, 173),rgb(109, 2, 224));
+    height: 100vh;
+}

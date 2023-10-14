@@ -1,0 +1,16 @@
+.feedbackmain{
+    width: 50vh;
+    background-color: antiquewhite;
+
+}
+#sad{
+    color: rgb(243, 243, 89);
+    font-size: xx-large;
+}
+.feedbackoptmain{
+    width: 35vh;
+    background-color: rgb(251, 221, 181);
+}
+#heart{
+    color: rgb(244, 5, 45);
+}
