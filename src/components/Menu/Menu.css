@@ -1,0 +1,23 @@
+.Link1{
+    text-decoration: none;
+    font-size: larger;
+    font-weight: 500;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+}
+.Link1:hover{
+    background-color: orange;
+}
+.menumain{
+    background-color: black;
+}
+.spannav{
+    margin-top: -6px ;
+}
+.datemain{
+    background-color: aqua;
+}
+.starh6{
+    font-size: inherit;
+}

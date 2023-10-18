@@ -1,0 +1,164 @@
+.portfoliohome {
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/244/150/511/simple-background-texture-wallpaper-preview.jpg");
+  /* background-image: url("https://c4.wallpaperflare.com/wallpaper/533/163/784/digital-digital-art-artwork-illustration-minimalism-hd-wallpaper-preview.jpg"); */
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.portfoliocert {
+  /* background-image: url("https://c4.wallpaperflare.com/wallpaper/542/50/545/simple-background-blue-simple-minimalism-wallpaper-preview.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  background: linear-gradient(
+    to bottom,
+    rgb(5, 26, 88),
+    rgb(88, 136, 249),
+    rgb(236, 109, 213)
+  ); */
+  
+}
+.portfolioedu {
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/244/150/511/simple-background-texture-wallpaper-preview.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background: linear-gradient(
+    to bottom,
+    rgb(236, 109, 213),
+    rgb(182, 244, 246),
+    rgb(182, 182, 246),
+    rgb(5, 5, 5)
+  ); */
+}
+.portfoliotechdiv {
+  /* background-image: url("https://i.pinimg.com/564x/36/27/62/362762623a9bbee2ae02611da8a3a38e.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background: linear-gradient(
+    to bottom,
+    rgb(7, 7, 7),
+    rgb(254, 253, 254),
+    rgb(4, 0, 29)
+  ); */
+  background-color: white;
+}
+.portfoliocontact {
+  /* background-color: black; */
+  color: white;
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/244/150/511/simple-background-texture-wallpaper-preview.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/* Portfolio Navigation bar css work */
+#portnavbar {
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  background-color: black;
+}
+.Link2 {
+  border-radius: 10px;
+  text-decoration: none;
+  font-size: larger;
+  font-weight: 500;
+  color: #8f8688;
+  padding: 5px;
+}
+.Link2:hover {
+  background: white;
+}
+/* Portfoliohome css work */
+
+.myimage {
+  box-shadow: 10px 10px 50px 10px #3e3c3c;
+  opacity: 0.8;
+}
+.myimage:hover {
+  opacity: 1;
+}
+.textclrblue {
+  color: rgb(61, 231, 243);
+  text-shadow: 5px 5px 20px rgb(254, 12, 234);
+  font-size: 150%;
+}
+.textclrblue:hover {
+  color: rgb(254, 12, 234);
+  text-shadow: 5px 5px 10px 10px rgb(61, 231, 243);
+  transform: rotateY("90deg");
+}
+.textclrpink {
+  color: rgb(249, 45, 45);
+  font-size: 130%;
+}
+.textclrpink:hover {
+  color: rgb(19, 242, 220);
+  text-shadow: 5px 5px 10px rgb(240, 156, 233);
+  transform: rotateY("90deg");
+}
+/* Portfolio certificate css work */
+.certficard {
+  border-top-right-radius: 150px;
+  background-color: rgb(178, 169, 114);
+}
+
+.certficardbody {
+  background-color: #3e3c3c;
+  color: white;
+}
+.portfoliocerth1 {
+  color: black;
+  text-shadow: 5px 5px 10px red;
+  font-family: monospace;
+}
+.imagecard:hover {
+  transform: scale(1.1);
+  opacity: 1;
+}
+.imagecard {
+  opacity: 0.5;
+}
+/* Portfolio education css work */
+.portfolioedu1 {
+  background-color: #3e3c3c;
+  color: white;
+}
+.portfolioedu1:hover {
+  background-color: #3e3c3c;
+  color: white;
+  box-shadow: 10px 10px 30px rgb(254, 12, 234);
+}
+.portfolioeduh1 {
+  color: white;
+  font-family: monospace;
+  text-shadow: 5px 5px 10px red;
+}
+
+/* Portfolio technical skills css work */
+.portfoliotechhead{
+  color: rgb(1, 1, 1);
+  text-shadow: 5px 5px 10px red;
+}
+
+.portfoliotech1 {
+  background-color: #000000;
+  opacity: 0.8;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.portfoliotech1:hover {
+  background-color: #8f8688;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  box-shadow: 10px 10px 30px rgb(49, 5, 228);
+  opacity: 1;
+}
+/* Portfolio Contact css work */
+
+.iconho:hover {
+  transform: scale(1.2);
+  color: white;
+}
+.iconho{
+  font-size: 9vh;
+}
+
+
+
